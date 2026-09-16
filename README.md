@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Om Sarvan</h1>
+<h1 align="center">Hey , I'm Om Sarvan</h1>
 
 ## 🙋‍♂️ About Me
 - *Completed my Bachelor's Degree in* ***Computer Science and Engineering***
