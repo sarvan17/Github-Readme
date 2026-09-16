@@ -1,9 +1,5 @@
 <h1 align="center">Hey 👋, I'm Om Sarvan</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd+Developer;Open+Source+Contributor;Tech+Enthusiast&center=true&width=500&height=45">
-</p>
-
 ## 🙋‍♂️ About Me
 - *Completed my Bachelor's Degree in* ***Computer Science and Engineering***
 -  *I'm a* ***Freelancer***
