@@ -4,8 +4,8 @@
 - *Completed my Bachelor's Degree in* ***Computer Science and Engineering***
 -  *I'm a* ***Freelancer***
 -  *I’m currently working on* ***UI/UX Designing***
--  *Ask me about* ***Web Development***
 -  *Fun fact: I love creating beautiful UIs*
+
 
 ---
 
